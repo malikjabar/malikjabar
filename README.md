@@ -15,8 +15,8 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
 - ⚡ Fun fact: Believe, commit and your shall earn.
 
 
-⭐ From [Muhammad Shafiq](https://malikjabar.github.io)
-Team lead at [Skrap UK](https://mountaxis.com)
+⭐ From [Abdul Jabbar](https://malikjabar.github.io)
+Team lead at [Mount Axis](https://mountaxis.com)
 
 
 
